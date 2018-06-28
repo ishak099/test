@@ -1,7 +1,12 @@
 <<<<<<< HEAD
 ans=input("Are you hungry")
-if ans == "Yes":
+if ans == "yes":
     print("Eat someting")
 else:
-    print("dont eat then")
+    thirsty = input("thirsty?")
+    if thirsty == "yes"
+        print("drink")
+    else:
+        print ("nothing")
+
 
